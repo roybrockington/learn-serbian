@@ -1,0 +1,348 @@
+{
+   "weather":[
+      {         
+         "english":"Rainy",
+         "serbian":"кишно"
+      },
+      {
+         "english":"Stormy",
+         "serbian":"олујна"
+      },
+      {
+         "english":"Sunny",
+         "serbian":"сунчан"
+      },
+      {
+         "english":"Cloudy",
+         "serbian":"облачно"
+      },
+      {
+         "english":"Hot",
+         "serbian":"вруће"
+      },
+      {
+         "english":"Cold",
+         "serbian":"хладно"
+      },
+      {
+         "english":"Dry",
+         "serbian":"сув"
+      },
+      {
+         "english":"Wet",
+         "serbian":"влажан"
+      },
+      {
+         "english":"Windy",
+         "serbian":"ветровито"
+      },
+      {
+         "english":"Hurricane",
+         "serbian":"ураган"
+      },
+      {
+         "english":"Tornado",
+         "serbian":"торнадо"
+      },
+      {
+         "english":"Humid",
+         "serbian":"Влажна"
+      },
+      {
+         "english":"Foggy",
+         "serbian":"магловито"
+      },
+      {
+         "english":"Hail",
+         "serbian":"хајдук"
+      },
+      {
+         "english":"Sleet",
+         "serbian":"сусњежица"
+      },
+      {
+         "english":"Blizzard",
+         "serbian":"Мећава"
+      },
+      {
+         "english":"Mist",
+         "serbian":"измаглица"
+      },
+      {
+         "english":"Thunderstorm",
+         "serbian":"тхундерсторм"
+      },
+      {
+         "english":"Avalanche",
+         "serbian":"лавина"
+      }
+   ],
+   "animals":[
+ {
+   "english": "Bat",
+   "serbian": "шишмиш",
+   "img":"https://ichef.bbci.co.uk/images/ic/256xn/p024fxrf.jpg"
+ },
+ {
+   "english": "Beaver",
+   "serbian": "дабар",
+   "img":"https://cdn130.picsart.com/291802947034201.jpg"
+ },
+ {
+   "english": "Sheep",
+   "serbian": "овце",
+   "img": "https://cdn130.picsart.com/313583325267201.jpg"
+ },
+ {
+   "english": "Bird",
+   "serbian": "птица",
+   "img": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/c8/b8/f0/c8b8f08e-1335-0c6e-9af0-8d737238e5e2/source/256x256bb.jpg"
+ },
+ {
+   "english": "Dolphin",
+   "serbian": "делфин",
+   "img": "https://ichef.bbci.co.uk/images/ic/256xn/p0309jz7.jpg"
+ },
+ {
+   "english": "Bear",
+   "serbian": "медвед",
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/8c/3b/b8/8c3bb8d6-7a4e-00b6-5146-9cdf339d5e7a/source/256x256bb.jpg"
+ },
+ {
+   "english": "Camel",
+   "serbian": "Камила",
+   "img": "https://cdn141.picsart.com/328389651044201.jpg"
+ },
+ {
+   "english": "Cat",
+   "serbian": "мачка",
+   "img": "https://d2ph5fj80uercy.cloudfront.net/06/cat1996.jpg"
+ },
+ {
+   "english": "Cheetah",
+   "serbian": "гепар",
+   "img": "https://www.stylist.co.uk/images/app/uploads/2018/03/02141540/jean-wimmerlin-525996-unsplash-256x256.jpg"
+ },
+ {
+   "english": "Seal",
+   "serbian": "печат",
+   "img": "https://ichef.bbci.co.uk/images/ic/256xn/p02x4gp8.jpg"
+ },
+ {
+   "english": "Cow",
+   "serbian": "крава",
+   "img": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/55/23/6b5523cd-890b-7505-624e-479b9d4dd8fb/source/256x256bb.jpg"
+ },
+ {
+   "english": "Crocodile",
+   "serbian": "крокодила",
+   "img": "https://media.apnarm.net.au/media/images/2017/08/04/salty-5zoxf8nmz7cd91uvoo2_ct300x300.jpeg"
+ },
+ {
+   "english": "Deer",
+   "serbian": "јелени",
+   "img": "https://i.pinimg.com/originals/06/cd/b8/06cdb801c3f256c2085c05a6fee65f6f.jpg"
+ },
+ {
+   "english": "Dog",
+   "serbian": "пас",
+   "img": "https://news.artnet.com/app/news-upload/2018/02/image-256x256.jpg"
+ },
+ {
+   "english": "Donkey",
+   "serbian": "магарац",
+   "img": "https://cdn141.picsart.com/325966943111201.jpg"
+ },
+ {
+   "english": "Mouse",
+   "serbian": "миш",
+   "img": "https://pbs.twimg.com/profile_images/613356603291664384/sIz4y66L_400x400.jpg"
+ },
+ {
+   "english": "Elephant",
+   "serbian": "слон",
+   "img": "https://ichef.bbci.co.uk/images/ic/256xn/p024lg9b.jpg"
+ },
+ {
+   "english": "Fish",
+   "serbian": "риба",
+   "img": "https://a.wattpad.com/useravatar/IDKLifeLoveButIWrite.256.146766.jpg"
+ },
+ {
+   "english": "Fox",
+   "serbian": "лисица",
+   "img": "https://avatarfiles.alphacoders.com/149/149289.jpg"
+ },
+ {
+   "english": "Frog",
+   "serbian": "жаба",
+   "img": "https://avatarfiles.alphacoders.com/844/84479.jpg"
+ },
+ {
+   "english": "Panda",
+   "serbian": "панда",
+   "img": "https://cdn141.picsart.com/314226832061201.jpg"
+ },
+ {
+   "english": "Giraffe",
+   "serbian": "жирафа",
+   "img": "https://i.pinimg.com/originals/32/bd/05/32bd05cf0f182e18cb8bc56152fb4b2c.jpg"
+ },
+ {
+   "english": "Goat",
+   "serbian": "Јарац",
+   "img": "https://i.kinja-img.com/gawker-media/image/upload/rfsvm0kqopb3n8tuxvoe.jpg"
+ },
+ {
+   "english": "Gopher",
+   "serbian": "гопхер",
+   "img": "https://images.freeimages.com/images/premium/small-comps/2145/21459404-prairie-dog.jpg"
+ },
+ {
+   "english": "Gorilla",
+   "serbian": "горила",
+   "img": "https://pbs.twimg.com/profile_images/595418694521626625/oYpMZlzh_400x400.jpg"
+ },
+ {
+   "english": "Hippopotamus",
+   "serbian": "хиппопотамус",
+   "img": "https://dvcinfo.com/forum/data/xfmg/thumbnail/3/3877-4c04cc8ec4cc455a6f4b4b1af7407a11.jpg"
+ },
+ {
+   "english": "Jellyfish",
+   "serbian": "медузе",
+   "img": "https://cdn140.picsart.com/326131973051201.jpg"
+ },
+ {
+   "english": "Kangaroo",
+   "serbian": "кенгуру",
+   "img": "https://pbs.twimg.com/profile_images/633077681421025280/hbDd6jSL_400x400.jpg"
+ },
+ {
+   "english": "Koala",
+   "serbian": "коала",
+   "img": "https://i.pinimg.com/474x/17/16/bd/1716bd0cc651bd9be7852e02dfc3d56c.jpg"
+ },
+ {
+   "english": "Leopard",
+   "serbian": "Леопард",
+   "img": "https://is4-ssl.mzstatic.com/image/thumb/Purple1/v4/7b/aa/c1/7baac119-a00f-8bca-cb8c-51bb76d6963a/source/256x256bb.jpg"
+ },
+ {
+   "english": "Lion",
+   "serbian": "лав",
+   "img": "https://avatarfiles.alphacoders.com/839/83990.jpg"
+ },
+ {
+   "english": "Llama",
+   "serbian": "лама",
+   "img": "https://public-media.si-cdn.com/accounts/avatars/20161008_114331.jpg"
+ },
+ {
+   "english": "Mole",
+   "serbian": "кртица",
+   "img": "https://pbs.twimg.com/profile_images/3109172378/454f5b0b055d1f94a4035452bd5dd4af.jpeg"
+ },
+ {
+   "english": "Monkey",
+   "serbian": "мајмун",
+   "img": "https://at-cdn-s01.audiotool.com/2014/05/28/documents/swXfVdelZHQStblYwyCd2fGFY91We/0/cover256x256-75b7a635b8124fc983f99459f9f3ac3e.jpg"
+ },
+ {
+   "english": "Octopus",
+   "serbian": "хоботница",
+   "img": "https://cdn130.picsart.com/292471209004201.jpg?type=webp&to=crop&r=256"
+ },
+ {
+   "english": "Otter",
+   "serbian": "Видра",
+   "img": "https://ichef.bbci.co.uk/images/ic/256xn/p02x4glc.jpg"
+ },
+ {
+   "english": "Panther",
+   "serbian": "пантхер",
+   "img": "https://a.wattpad.com/useravatar/pantherpud.256.576266.jpg"
+ },
+ {
+   "english": "Pig",
+   "serbian": "свиња",
+   "img": "https://i.pinimg.com/originals/8d/fd/07/8dfd07ca0f0f8d01a40682ac42205c9a.jpg"
+ },
+ {
+   "english": "Polar Bear",
+   "serbian": "поларни медвед",
+   "img": "https://i.pinimg.com/originals/33/f3/65/33f3655e2db7decce9965990ad2eff8c.jpg"
+ },
+ {
+   "english": "Rabbit",
+   "serbian": "зец",
+   "img": "https://cdn140.picsart.com/290938239017201.jpg?type=webp&to=crop&r=256"
+ },
+ {
+   "english": "Raccoon",
+   "serbian": "ракон",
+   "img": "https://i.pinimg.com/originals/bf/dc/03/bfdc031803ef20c908fad193abc6fba2.jpg"
+ },
+ {
+   "english": "Rat",
+   "serbian": "пацов",
+   "img": "https://styles.redditmedia.com/t5_11oy6b/styles/profileIcon_5p2x82s6p9z21.jpg"
+ },
+ {
+   "english": "Reindeer",
+   "serbian": "северни јелен",
+   "img": "https://pbs.twimg.com/profile_images/737607225288462337/qf4Wcu6n_400x400.jpg"
+ },
+ {
+   "english": "Rhino",
+   "serbian": "носорог",
+   "img": "https://i.pinimg.com/originals/85/9f/a4/859fa4316d137076dffbb73a21ea4b51.jpg"
+ },
+ {
+   "english": "Salamander",
+   "serbian": "саламандер",
+   "img": "https://cdn140.picsart.com/308519512077201.jpg?type=webp&to=crop&r=256"
+ },
+ {
+   "english": "Shark",
+   "serbian": "ајкула",
+   "img": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/64/51/19/645119a8-0088-4d75-66fb-530ee6960ab1/source/256x256bb.jpg"
+ },
+ {
+   "english": "Sheep",
+   "serbian": "овце",
+   "img": "https://cdn131.picsart.com/324219947862201.jpg?type=webp&to=crop&r=256"
+ },
+ {
+   "english": "Snake",
+   "serbian": "змија",
+   "img": "https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/65/39/2a/65392a1d-c36a-a2ab-70b2-2deb55d8ead5/source/256x256bb.jpg"
+ },
+ {
+   "english": "Squirrel",
+   "serbian": "веверица",
+   "img": "https://cdn131.picsart.com/326184264051201.jpg?type=webp&to=crop&r=256"
+ },
+ {
+   "english": "Turtle",
+   "serbian": "корњача",
+   "img": "https://images.pexels.com/users/avatars/2617599/omerchmedia-878.jpeg"
+ },
+ {
+   "english": "Whale",
+   "serbian": "Кит",
+   "img": "https://ichef.bbci.co.uk/images/ic/256xn/p02x4gjf.jpg"
+ },
+ {
+   "english": "Wolf",
+   "serbian": "вук",
+   "img": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/6b/c4/a0/6bc4a085-3981-69a7-a799-855cfab5f88e/source/256x256bb.jpg"
+ },
+ {
+   "english": "Zebra",
+   "serbian": "зебра",
+   "img": "https://www.semowi.com/wp-content/uploads/2019/10/zebras_semowi-0002-256x256.jpg"
+ }
+]
+
+}
